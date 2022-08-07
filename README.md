@@ -4,4 +4,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrEnder0)](https://git.io/streak-stats)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?mrender0" frameborder="0"></iframe>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrEnder0)](https://github.com/MrEnder0/github-readme-stats)
