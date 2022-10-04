@@ -8,7 +8,7 @@
   <h1>Tools I Use</h1>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,vscode,flask,linux,godot" />
+    <img src="https://skillicons.dev/icons?i=github,git,ai,vscode,flask,linux,godot" />
   </a>
 </p>
 
