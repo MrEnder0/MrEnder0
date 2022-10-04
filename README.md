@@ -2,7 +2,7 @@
   <h1>Languages I Use</h1>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nim,py,js,linux,bash,arduino,godot,powershell" />
+    <img src="https://skillicons.dev/icons?i=nim,py,js,powershell,bash,arduino" />
   </a>
   <br>
   <h1>Tools I Use</h1>
