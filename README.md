@@ -1,4 +1,13 @@
-### Hi there 👋
+<p align="center">
+  Languages I Use
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nim,py,js,linux,bash,arduino,godot,powershell" />
+  </a>
+  Tools I Use
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,vscode,flask,linux,godot" />
+  </a>
+</p>
 
 ![MrEnders github stats](https://github-readme-stats.vercel.app/api?username=MrEnder0)
 
