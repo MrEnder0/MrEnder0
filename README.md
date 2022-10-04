@@ -15,6 +15,7 @@
 </p>
 <br>
 
+<h1 align="center">My GitHub Stats</h2>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrEnder0" />
