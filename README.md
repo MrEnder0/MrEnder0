@@ -1,9 +1,12 @@
 <p align="center">
-  Languages I Use
+  <h1>Languages I Use</h1>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nim,py,js,linux,bash,arduino,godot,powershell" />
   </a>
-  Tools I Use
+  <br>
+  <h1>Tools I Use</h1>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ai,vscode,flask,linux,godot" />
   </a>
