@@ -1,14 +1,19 @@
 <h1 align="center">Languages I Use</h2>
 <br>
-<a href="https://skillicons.dev" align="center">
-  <img src="https://skillicons.dev/icons?i=nim,py,js,powershell,bash,arduino" align="center"/>
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nim,py,js,powershell,bash,arduinot" />
+  </a>
+</p>
 <br>
 <h1 align="center">Tools I Use</h2>
 <br>
-<a href="https://skillicons.dev" align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,ai,vscode,flask,linux,godot" align="center"/>
-</a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,ai,vscode,flask,linux,godot" />
+  </a>
+</p>
+<br>
 
 ![MrEnders github stats](https://github-readme-stats.vercel.app/api?username=MrEnder0)
 
