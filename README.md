@@ -23,6 +23,6 @@
 </p>
 <p align="center">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://raw.githubusercontent.com/MrEnder0/github-stats-transparent/output/generated/languages.svg" />
+  ![Most Used Languages](https://raw.githubusercontent.com/MrEnder0/github-stats-transparent/output/generated/languages.svg)
 </a>
 </p>
